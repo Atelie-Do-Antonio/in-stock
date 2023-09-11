@@ -1,4 +1,4 @@
-# Coretto
+# In Stock
 
 To start your Phoenix server:
 
